@@ -10,10 +10,13 @@ Comprehensive command reference for **SCP: Containment Breach** and **SCP: Conta
 - **camerafog [near] [far]** — Sets fog rendering distance  
 - **camerapick** — Shows object the player is looking at  
 - **asd** — Enables godmode, noclip, wireframe, debug fog  
+- **asd2** — Sets godmode and infinite stamina to on. Disables SCP-173 and contains SCP-106.  
 - **teleport [room_name]** — Teleports to specified room  
 - **spawnitem [item_name]** — Spawns an item in front of the player  
 - **roomlist** — Lists all room names available for teleporting  
 - **noclip** — Toggles no-clipping (walk through walls)  
+- **fly** — Toggles no-clipping (walk through walls)  
+- **noclipspeed [value]** — Sets the movement speed multiplier of the player during noclip to 'Speed'  
 - **godmode** — Toggles god mode (invincibility)  
 - **infinitestamina** — Toggles infinite stamina  
 
@@ -44,8 +47,9 @@ Comprehensive command reference for **SCP: Containment Breach** and **SCP: Conta
 - **096state** — Shows SCP-096’s position and state  
 - **reset096** — Resets SCP-096 to idle  
 
-### Misc SCP
+### Misc Commands
 - **halloween** — Turns SCP-173 into a jack-o-lantern  
+- **sanic** — Toggles the "increased speed followed by death" mode used for certain items, displaying "GOTTA GO FAST" when enabled, and "WHOA SLOW DOWN" when disabled.  
 
 ---
 
