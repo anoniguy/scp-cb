@@ -21,16 +21,19 @@ All console commands for SCP: Containment Breach and SCP: Containment Breach Mul
 **ban [player_name]**	Bans the specified player (admin only)
 
 ***SCP-173 Commands***
+
 **173state**	Shows SCP-173’s position and state
 **173speed [value]**	Sets SCP-173’s movement speed
 **enable173 / disable173**	Toggles SCP-173
 
 ***SCP-106 Commands***
+
 **106state**	Shows SCP-106’s position and state
 **106speed [value]**	Sets SCP-106’s speed
 **enable106 / disable106**	Toggles SCP-106
 
 ***SCP-096 Commands***
+
 **096state**	Shows SCP-096’s position and state
 **reset096**	Resets SCP-096 to idle
 
